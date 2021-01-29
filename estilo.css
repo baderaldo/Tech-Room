@@ -1,0 +1,29 @@
+/************************
+*{
+	border: 1px solid red;
+}
+/***********************
+h1{color: green;}
+*/
+
+
+#cabecalho{
+	text-align: center;
+	padding: 20px;
+	color:blue;
+	font-size: 50px;
+}
+.azul {color: blue;}
+p {
+	text-align: center;
+	padding-right: 200px;
+	padding-left: 250px;
+	font-size: 30px;
+}
+.image{ 
+	align-content:center;
+	padding-right: 500px;
+	padding-left: 550px;
+	padding-bottom: 20px;
+
+}
